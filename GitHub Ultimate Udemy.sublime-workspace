@@ -275,7 +275,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 105,
+				"buffer_size": 103,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -532,15 +532,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 105,
+						"buffer_size": 103,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								105,
-								105
+								102,
+								102
 							]
 						],
 						"settings":
