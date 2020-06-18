@@ -271,6 +271,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 5,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -309,6 +318,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/dumitru.lupu/projects/demo/application.log",
 		"/C/Users/dumitru.lupu/projects/demo/example.txt",
 		"/C/Users/dumitru.lupu/projects/demo/README.md",
 		"/C/Users/dumitru.lupu/projects/demo/LICENSE.md",
@@ -435,8 +445,7 @@
 		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 146 The Return Keyword/Lesson 146 The Return Keyword.html",
 		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 146 The Return Keyword/Lesson 146 The Return Keyword.js",
 		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 144 Arguments/Lesson 144 Arguments.js",
-		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 143 Introduction to Functions/Lesson 143 Introduction to Functions.html",
-		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 144 Arguments/Lesson 144 Arguments.css"
+		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 143 Introduction to Functions/Lesson 143 Introduction to Functions.html"
 	],
 	"find":
 	{
@@ -514,8 +523,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
