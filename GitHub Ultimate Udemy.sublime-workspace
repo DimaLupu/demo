@@ -271,15 +271,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "LICENSE.md",
-			"settings":
-			{
-				"buffer_size": 27,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -318,6 +309,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/dumitru.lupu/projects/demo/LICENSE.md",
 		"/C/Users/dumitru.lupu/projects/demo/README.md",
 		"/D/eMAG Study/Udemy/The Web Developer Bootcamp/Section 20 Todo List Projects/TodoListProject/index.html",
 		"/D/eMAG Study/Udemy/The Web Developer Bootcamp/Section 20 Todo List Projects/TodoListProject/assets/js/todos.js",
@@ -444,8 +436,7 @@
 		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 144 Arguments/Lesson 144 Arguments.js",
 		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 143 Introduction to Functions/Lesson 143 Introduction to Functions.html",
 		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 144 Arguments/Lesson 144 Arguments.css",
-		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 143 Introduction to Functions/Lesson 143 Introduction to Functions.js",
-		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 143 Introduction to Functions/Lesson 143 Introduction to Functions.css"
+		"/C/Users/dumitru.lupu/Documents/EMAG Learning/Udemy/The Web Developer Bootcamp/Section 12 JavaScript Basics Functions/Lesson 143 Introduction to Functions/Lesson 143 Introduction to Functions.js"
 	],
 	"find":
 	{
@@ -523,37 +514,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "LICENSE.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 27,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27,
-								27
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
